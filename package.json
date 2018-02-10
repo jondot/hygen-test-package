@@ -1,0 +1,9 @@
+{
+  "name": "hygen-t1",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
